@@ -1,0 +1,12 @@
+# Gizli anahtarlar - ASLA repoya girmemeli
+secret.key.json
+*.key
+.env
+
+# Yerel çıktılar
+public-proof.txt
+
+# Node
+node_modules/
+npm-debug.log*
+.DS_Store
